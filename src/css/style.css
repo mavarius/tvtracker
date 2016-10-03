@@ -1,0 +1,22 @@
+.searchResult {
+  position: relative;
+  width: 100%;
+  border-top: 1px solid lightgrey;
+  display: block;
+  clear: both;
+  margin-top: 20px;
+}
+
+.searchResult img {
+  float: left;
+  margin: 20px;
+}
+
+.noImage {
+  position: relative;
+  min-width: 210px;
+  min-height: 295px;
+  text-align: center;
+  vertical-align: middle;
+  background-color: lightgrey;
+}
